@@ -9,3 +9,6 @@ We carried out an experiment to find the predictive performance of different cla
 
 Out of many classifier algorithms, **Decision Table** gave the best in performance.
 
+- **Knowledge Flow Map**
+
+![logs](https://user-images.githubusercontent.com/49576526/126888643-4e698d19-d006-4102-95bb-6ed3d8ebe9d8.png)
